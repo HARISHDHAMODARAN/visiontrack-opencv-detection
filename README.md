@@ -20,6 +20,3 @@ VisionTrack uses OpenCV’s Deep Neural Network (DNN) module along with a pre-tr
 - 🐍 Lightweight and runs entirely in Python with OpenCV
 
 ---
-
-## 🗂️ Folder Structure
-
